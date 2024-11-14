@@ -1,0 +1,12 @@
+[submodule "str4"]
+	path = str4
+	url = https://github.com/trigger-e/str4.git
+[submodule "str3"]
+	path = str3
+	url = https://github.com/trigger-e/str3.git
+[submodule "str2"]
+	path = str2
+	url = https://github.com/trigger-e/str2.git
+[submodule "strr1"]
+	path = strr1
+	url = https://github.com/trigger-e/strr1.git
